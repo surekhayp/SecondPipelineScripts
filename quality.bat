@@ -1,0 +1,1 @@
+echo " Quality head triggered at %date% -- %time%"
